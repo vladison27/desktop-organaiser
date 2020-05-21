@@ -1,0 +1,7 @@
+D:\untitled\C#\learnC#\Глава 4\Logist\bin\Debug\Logist.exe.config
+D:\untitled\C#\learnC#\Глава 4\Logist\bin\Debug\Logist.exe
+D:\untitled\C#\learnC#\Глава 4\Logist\bin\Debug\Logist.pdb
+D:\untitled\C#\learnC#\Глава 4\Logist\obj\Debug\Logist.csprojAssemblyReference.cache
+D:\untitled\C#\learnC#\Глава 4\Logist\obj\Debug\Logist.csproj.CoreCompileInputs.cache
+D:\untitled\C#\learnC#\Глава 4\Logist\obj\Debug\Logist.exe
+D:\untitled\C#\learnC#\Глава 4\Logist\obj\Debug\Logist.pdb
